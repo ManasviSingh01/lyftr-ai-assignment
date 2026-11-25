@@ -1,0 +1,9 @@
+.env
+backend/.venv/
+backend/litellm_cache/
+backend/app.db
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.DS_Store
